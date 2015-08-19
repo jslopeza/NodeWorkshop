@@ -1,0 +1,27 @@
+{
+  "name": "node-workshop",
+  "version": "1.0.0",
+  "description": "Node Workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binoy14/NodeWorkshop.git"
+  },
+  "author": "Binoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binoy14/NodeWorkshop/issues"
+  },
+  "homepage": "https://github.com/binoy14/NodeWorkshop#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2"
+  }
+}
